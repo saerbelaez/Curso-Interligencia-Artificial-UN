@@ -3,3 +3,4 @@ Este repositorio contiene los trabajos realizados durante el curso de inteligenc
 
 ## Índice
 1) Navegación en herramientas (Git-Hub, Anaconda, Colab)
+2) Ejemplos Sotaquirá
